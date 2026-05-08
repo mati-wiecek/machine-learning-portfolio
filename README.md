@@ -1,29 +1,19 @@
-# Machine Learning Portfolio
+# Machine Learning Portfolio Index
 
-Applied AI, Machine Learning, and Data Science projects from my MSc Artificial Intelligence & Applications studies at the University of Strathclyde.
+This repository is a lightweight index for my applied AI and machine-learning work.
 
-This portfolio is organised around projects that demonstrate practical model development, reproducible experimentation, technical communication, and the ability to connect AI methods with real-world use cases.
+The primary portfolio lives here:
 
-## Featured Projects
+[msc-ai-data-science-projects](https://github.com/mati-wiecek/msc-ai-data-science-projects)
+
+## Best Starting Points
 
 | Project | Area | Summary |
 | --- | --- | --- |
-| [Project RAG for NHS-style Clinical Knowledge Retrieval](https://github.com/mati-wiecek/msc-ai-data-science-projects/tree/main/project-rag-nhs) | Generative AI / RAG | Architecture and methodology for a privacy-aware retrieval-augmented generation system using LLMs, embeddings, and vector search. |
-| [Sign Language MNIST Classification](https://github.com/mati-wiecek/msc-ai-data-science-projects/tree/main/sign-language-mnist) | Computer Vision / Deep Learning | Image classification pipeline for recognising hand signs, with model training, evaluation, and visual learning curves. |
-| [Genetic Algorithms for Portfolio Optimisation](https://github.com/mati-wiecek/msc-ai-data-science-projects/tree/main/genetic-algorithms-portfolio-optimisation) | Optimisation / Evolutionary Algorithms | Portfolio allocation experiment using genetic algorithms to explore risk-return trade-offs. |
-
-## What This Portfolio Shows
-
-- End-to-end machine learning workflows
-- Data preparation, feature engineering, and model evaluation
-- Deep learning experimentation with PyTorch
-- Clear README documentation for recruiters and technical reviewers
-- Reproducible project setup using requirements files and notebooks
-
-## Core Tools
-
-Python, pandas, NumPy, scikit-learn, PyTorch, Jupyter, matplotlib, seaborn, Git, SQL.
+| [Clinically Aware RAG for NHS-style EHR](https://github.com/mati-wiecek/msc-ai-data-science-projects/tree/main/project-rag-nhs) | Generative AI / RAG | Runnable synthetic-data RAG prototype with patient-aware retrieval, citations, safety checks, tests and governance documentation. |
+| [Spotify Popularity and Genre Modelling](https://github.com/mati-wiecek/msc-ai-data-science-projects/tree/main/cs985-spotify-popularity-genre-ml) | Tabular ML | CatBoost regression and Linear SVC classification workflow with validation metrics, figures and pytest tests. |
+| [Sign Language MNIST from Scratch](https://github.com/mati-wiecek/msc-ai-data-science-projects/tree/main/sign-language-mnist) | Computer Vision / Deep Learning | Perceptrons and neural networks implemented from scratch in NumPy with documented results and diagnostics. |
 
 ## Profile
 
-More context about my current focus and links is available on my GitHub profile: https://github.com/mati-wiecek
+More context and contact links are available on my GitHub profile: https://github.com/mati-wiecek
